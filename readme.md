@@ -1,1 +1,6 @@
-# Prueba
+# Trabajo Práctico N°3
+1a) Archivo "sinhilos.py": Se ejecutó en un tiempo de 5,242...
+    Archivo "conhilos.py": Se ejecutó en un tiempo de 4,0255...
+    Se puede ver que el tiempo en cada una de las ejecuciones puede llegar a variar ligeramente.
+1b) Los tiempos de ejecución, comparados con los de mis compañeros son parecidos entre si, pero no idénticos.
+1c)    
