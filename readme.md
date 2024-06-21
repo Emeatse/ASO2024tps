@@ -25,6 +25,8 @@ c)EJEMPLO: Descargando archivos de Internet. Con un solo hilo, solo puedes desca
 
 b)El lock permite que  los subprocesos trabajen juntos sin interferirsey de esta forma se acelera el tiempo de ejecución.
 
+# Trabajo Practico N°4
 
-
-
+![Descripción de la imagen](TP4/localhost.png)
+![Descripción de la imagen](TP4/phpMyAdmin.png)
+![Descripción de la imagen](TP4/utn.png)
